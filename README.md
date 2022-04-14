@@ -8,4 +8,4 @@ Enable YouTube background playback in kiwi browser
 4. Activate developer mode
 5. Click "+(from .zip/.crx/user.js)"
 6. Select YouTubeBackground.zip
-7. Exit and restart kiwi browser
+7. Restart your browser
